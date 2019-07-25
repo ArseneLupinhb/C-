@@ -1,0 +1,16 @@
+E:\教材编写\C#教材编写\Demo\高级篇源程序\chat15\AddressList\IDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\教材编写\C#教材编写\Demo\高级篇源程序\chat15\AddressList\IDAL\bin\Debug\IDAL.dll
+E:\教材编写\C#教材编写\Demo\高级篇源程序\chat15\AddressList\IDAL\bin\Debug\IDAL.pdb
+E:\教材编写\C#教材编写\Demo\高级篇源程序\chat15\AddressList\IDAL\bin\Debug\Model.dll
+E:\教材编写\C#教材编写\Demo\高级篇源程序\chat15\AddressList\IDAL\bin\Debug\Model.pdb
+E:\教材编写\C#教材编写\Demo\高级篇源程序\chat15\AddressList\IDAL\obj\Debug\IDAL.dll
+E:\教材编写\C#教材编写\Demo\高级篇源程序\chat15\AddressList\IDAL\obj\Debug\IDAL.pdb
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\bin\Debug\IDAL.dll
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\bin\Debug\IDAL.pdb
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\bin\Debug\Model.dll
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\bin\Debug\Model.pdb
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\obj\Debug\IDAL.dll
+F:\QQfile\1261175010\FileRecv\C#源程序\高级篇源程序\chat16\AddressList\IDAL\obj\Debug\IDAL.pdb
