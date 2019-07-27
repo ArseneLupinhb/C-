@@ -14,7 +14,8 @@
         /// <summary>
         /// Defines the connString
         /// </summary>
-        private static string connString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
+        /// test Charp 
+        private static string      connString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
         /// <summary>
         /// Gets or sets the ConnectionString
